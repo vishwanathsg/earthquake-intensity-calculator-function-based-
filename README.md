@@ -1,0 +1,1 @@
+# earthquake-intensity-calculator-function-based-
